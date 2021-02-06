@@ -17,6 +17,7 @@ import platform
 from distutils.version import LooseVersion
 from importlib.metadata import version
 
+import pkg_resources
 import torch
 
 
